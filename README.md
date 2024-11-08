@@ -1,4 +1,5 @@
 # quickref-releases
+- v0.8.8
 - v0.7.11
 - v0.7.10
 - v0.7.9
